@@ -1,0 +1,21 @@
+# Local agent state
+.agent/
+
+# Downloaded/runtime dependencies
+lib/
+
+# Runtime logs
+*.log
+*.log.1
+
+# Editor and OS noise
+.vscode/
+.idea/
+*.code-workspace
+Thumbs.db
+Desktop.ini
+
+# PowerShell and build artifacts
+*.tmp
+*.bak
+*.zip
